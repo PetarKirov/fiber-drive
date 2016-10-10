@@ -1,0 +1,5 @@
+name "fiber-drive"
+description "Lightweight thread primitives"
+authors "zombinedev"
+copyright "Copyright © 2016, zombinedev"
+license "Boost"
